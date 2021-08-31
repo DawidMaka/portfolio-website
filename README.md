@@ -7,6 +7,6 @@ Technologies and tools I've used with this project:
   - BEM Methodology
   - Webpack
 
-  Live: https://web-devvv.github.io/portfolio-website/
+  Live: https://DawidMaka.github.io/portfolio-website/
 
-  Src: https://github.com/web-deVVV/portfolio-website/tree/master/src
+  Src: https://github.com/DawidMaka/portfolio-website/tree/master/src
